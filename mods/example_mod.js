@@ -11,11 +11,11 @@
 // Adding elements:
 elements.mayo = {
     color: "#ffffff",
-    behavior: behaviors.LIQUID,
+    behavior: behaviors.WALL,
     category: "liquids",
     viscosity: 100000,
     state: "liquid",
-    density: 7200,
+    density: 720,
 };
 
 // Changing existing elements:
