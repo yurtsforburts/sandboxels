@@ -15,7 +15,7 @@ elements.mayo = {
     category: "liquids",
     viscosity: 100000,
     state: "liquid",
-    density: 720,
+    density: 7200,
 };
 
 // Changing existing elements:
